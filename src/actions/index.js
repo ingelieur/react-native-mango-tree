@@ -13,8 +13,12 @@ export const handleTreeName = (treeName) => {
 }
 
 export const startTree = () => {
+  let deadAge = Math.floor((Math.random() * 3) + 15)
+  let stopGrowingAge = deadAge - 3
+  let harvestAge = Math.floor(deadAge/3 + 1)
   return({
     type: "START_TREE",
+    payload: {deadAge, stopGrowingAge, harvestAge}
   })
 }
 
