@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

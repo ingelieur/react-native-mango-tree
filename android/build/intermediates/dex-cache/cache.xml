@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_7152e1d3bd9a910bb34f2fb43c5482a75b1c318c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_6cadf9aceb9a883abdc7e67077a41453ceec89db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b6b77bb586dec8253f3d20ac9d3ff44a56d56546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_84fa294bbbba9b14757c28cbf97b5d81f91f0e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_e1f31aeecded030563b762532e297eb0ff30f89c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_1d79097ed651cc7dcf3bdabfc0f2839557810e6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_2b90b7427b435460706d9bb9dfaa812a6ecb203f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_5147d0ff419e15e5f31d566b0deb5d8200a59aba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b33d6b8a8d2478fb62953bcca30b3a79a68a0206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_9a66d6484cbad32ac03720811d9f08932c724dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_3cbacada44ad1d646b210453b4bfd218cea503e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_3846a9a0ba9944a26854c90bc596c5f23332d37a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_9c5ae6e0ecf6c405e6ee6d73a55a8046c7d82e67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_79bcf5cf67e83c3b0aea02b742e7b048d85546cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.45.1_123afef99e145483dd3acaa7b79b35eb98c2ee2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_a2d93cbf6dc76b350ac980e72b771f01b0df4509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_db33f5b68acb86128f93f9d2e2dbdad44596bc5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_ed076f19c997c89f0392bad1658896edb67f97bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_7304fbcc729628f088084d04152c4319c295f716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_90979b1006e73b9b19bee67b3dc53933f1b9da32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_a1ef5dbcaa1ca1372f71d372e5bb5893ccb7a97b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_460c3f39c487ce91aae8721db77e657c3b0e36d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_984e24b7c3b5f96aed0349ad27a5e872e77addff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_193dae1e409f5a110cd5d8cd7bf225222fc58586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_bd3feaaf662e24be9f4c64318efe012e1f0b4f6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_b40ad5141593b22539f167fe8e295d9ec29f3938.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_4d9ba1710213b883a4cca2cc4cd16c2f679a9f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_c11b23a3d2abd3417c4601b04bb76fb5b23a64fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_778624b9d4af5c1c74fc60465351ed377ebfef03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/react-native-mango-tree/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_02d345eccecbbd59110a33d7c975ce7a56051eb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_97bf2105214feb2786984beaa80b5d02e8a098c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.45.1_8e495bdd1fd0fbaf3fa856f4fa434465d69c0461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_646e773556644f4c2ae280d878bdcfb67d4c4de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5795ef26922a784cac01842a651ba47bf76e5fee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabrina/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/shabrina/Documents/HACKTIV8/phase-3/w2/d5/reAction/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_78b2111affafeadc117532113b5fc888f7b6cec0.jar" />
+    </item>
+
+</items>
