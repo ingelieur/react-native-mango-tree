@@ -1,13 +1,16 @@
 import React from 'react';
+import { Provider } from 'react-redux'
+
+import store from './src/store/configureStore'
+import AppSrc from './src/App.js'
+
 import { StyleSheet, Text, View } from 'react-native';
 
 export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>HI!!</Text>
-        <Text>Changes you make will automatically reload.</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
+        <Text>Shabrina Virta Inmas</Text>
       </View>
     );
   }
