@@ -5,9 +5,9 @@ class GameOver extends React.Component {
   static navigationOptions = {
   }
 
-  redir () {
+  render () {
     return (
-      <View styles={styles.container}>
+      <View style={styles.container}>
         <Text>GameOver</Text>
       </View>
     )
