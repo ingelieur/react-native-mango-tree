@@ -3,6 +3,7 @@ import { StyleSheet, View, Text } from 'react-native'
 
 class MainApp extends React.Component {
   static navigationOptions = {
+    title: 'Main App'
   }
 
   render () {

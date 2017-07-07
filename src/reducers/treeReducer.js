@@ -3,8 +3,8 @@ const initialState = {
   treeName: 'Give your tree a name',
   age: 0,
   fruits: 0,
-  stopGrowingAge: null,
   harvestAge: null,
+  stopGrowingAge: null,
   deadAge: null,
 }
 
@@ -14,6 +14,8 @@ export default (state = initialState, action) => {
       return {...state, personName: action.payload}
     case "HANDLE_TREE_NAME":
       return {...state, treeName: action.payload}
+    case "START_TREE":
+      return {...state, harvestAge: 4, stopGrowingAge: 10, deadAge: 13}
     case "AGE_TREE":
       let age = this.state.age + 1
       return {...state, age: age}

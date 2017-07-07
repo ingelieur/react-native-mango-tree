@@ -12,8 +12,14 @@ export const handleTreeName = (treeName) => {
   }
 }
 
+export const startTree = () => {
+  return({
+    type: "START_TREE",
+  })
+}
+
 export const ageTree = () => {
-  dispatch({
+  return({
     type: "AGE_TREE",
   })
 }
